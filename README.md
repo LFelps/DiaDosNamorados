@@ -1,1 +1,1 @@
-<h1> lalalalalallala </h1>
+<h1> { text-align: center } lalalalalallala </h1>
