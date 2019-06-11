@@ -1,1 +1,10 @@
-<h1> { text-align: center } lalalalalallala </h1>
+<!DOCTYPE html>
+
+<html>  
+  <head>
+<style>
+</style>
+  </head>
+  <body>
+  </body>
+</html>
